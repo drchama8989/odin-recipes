@@ -1,2 +1,1 @@
-# odin-recipes
-
+In this project, I will be making a HTML site with recipes. It will demonstrate my skills learned in the HTML section of TOP. 
